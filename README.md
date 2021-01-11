@@ -1,9 +1,14 @@
-# django-e-commerce-project
- first go to django-e-commerce-project directory into your terminal
- 
- type :
+Installations
+
+git clone https://github.com/amitp2139/django-e-commerce-project.git
+cd django-ecommerce
+pip install django
+python manage.py migrate
 python manage.py runserver
 
-add this url to your browser:
+eCommerce Project Features Listing
 
-http://127.0.0.1:8000/shop/
+Admin adds the category and products
+Browses all the products and categories
+Add products in cart
+User can checkout product
